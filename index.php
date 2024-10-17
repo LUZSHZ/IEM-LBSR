@@ -56,6 +56,7 @@ if (!empty($_SESSION['activa'])) {
 </head>
 
 <body>
+  <h1>Luz belen </h1>
   <div class="container" style="background-color: blueviolet; margin-top:230px;">
     <div class="row" style="background-color: purple; text-align:center;">
       <div class="col" style="background-color:aqua">
