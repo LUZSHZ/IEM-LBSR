@@ -57,6 +57,8 @@ if (!empty($_SESSION['activa'])) {
 
 <body>
   <h1>Luz belen </h1>
+  <h2>Brayan hernández Hernández Estuvo Aqui </h2>
+  <h2>Me compras unos fritos con salsa hommie</h2>
   <div class="container" style="background-color: blueviolet; margin-top:230px;">
     <div class="row" style="background-color: purple; text-align:center;">
       <div class="col" style="background-color:aqua">
