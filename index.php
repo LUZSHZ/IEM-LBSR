@@ -80,7 +80,7 @@ if (!empty($_SESSION['activa'])) {
           </div>
           <div class="mb-3 form-check">
             <input type="checkbox" class="form-check-input" id="exampleCheck1" style="margin-left:120px;">
-            <label class="form-check-label" for="exampleCheck1" style="color:aqua; text-align:center;">Check me out</label>
+            <label class="form-check-label" for="exampleCheck1" style="color:aqua; text-align:center;">Mostrar contraseña</label>
           </div>
           <a href="../inicio.php"><button type="submit" class="btn btn-primary" style="background-color:aqua; color:#4E0674;">Iniciar Sesión</button>
         </form>
